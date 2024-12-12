@@ -47,6 +47,6 @@
     --fakeip         Option to create fake ip if not specify spoofed ip
 
     Example:
-        python3 pyddos.py -d www.example.com -p 80 -T 2000 -Pyslow
-        python3 pyddos.py -d www.domain.com -s 100 -Request
-        python3 pyddos.py -d www.google.com -Synflood -T 5000 -t 10.0
+        python3 hexaddos.py -d www.example.com -p 80 -T 2000 -Pyslow
+        python3 hexaddos.py -d www.domain.com -s 100 -Request
+        python3 hexaddos.py -d www.google.com -Synflood -T 5000 -t 10.0
